@@ -10,7 +10,7 @@
     "url": "git+https://github.com/MS269/movieql.git"
   },
   "author": "MS269",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/MS269/movieql/issues"
   },
